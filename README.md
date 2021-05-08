@@ -36,14 +36,10 @@
 -->
 
 <!-- Project Title -->
-# <img src="/img/icon.png" alt="icon.png" width="30"> Project Name
-**Client**:
+# <img src="/img/icon.png" alt="icon.png" width="30"> Helium Feather Test
 
 <!-- Project Description -->
-Text of project description
-
-<!-- Main Project Image -->
-<img src="/img/main.png" alt="main.png" width="400">
+Connect to the helium network... or bust. 
 
 ---
 
@@ -78,8 +74,6 @@ Text of project description
 
 ### Developer Documentation
 
-* <img src="/img/platformio_icon.png" alt="platformio_icon.png" width="15"> [**PlatformIO IDE Guide**](docs/platformio_ide_guide.md)
-
 * <img src="/img/documentation_icon.png" alt="documentation_icon.png" width="15"> [**Firmware File Structure**](docs/firmware_file_structure.md)
 
 * <img src="/img/folders.png" alt="folders.png" width="15"> [**Project Folder Structure**](/utils/print_folder_structure/folder_structure.md)
@@ -106,7 +100,7 @@ Text of project description
 
 ## <img src="/img/hardware_icon.png" alt="hardware_icon.png" width="20"> Hardware
 
-**Bill of Materials**: [Google Sheet](https://) <!-- | [Simplified PDF](docs/bom-simplified.pdf)-->
+**Where to buy**: [Adafruit Feather M0 Radio with LoRa Radio Module](https://learn.adafruit.com/adafruit-feather-m0-radio-with-lora-radio-module/using-the-rfm-9x-radio) <!-- | [Simplified PDF](docs/bom-simplified.pdf)-->
 
 <!--**Photo Gallery**-->
 
@@ -141,7 +135,7 @@ Text of project description
 * **Target device**: [*dev board*](https://)
 
 * **IDE**: [PlatformIO IDE](https://platformio.org/)
-* **Libraries**: see `lib_deps` section in [`platformio.ini`](firmware/platformio_ide)
+* **Libraries**: see `libraries` section in arduino_ide folder
 <!--
   * **Protocol Stack**:
   * **Compiler Toolchain**:

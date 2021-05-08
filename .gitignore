@@ -1,0 +1,13 @@
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Temporary files
+*.tmp
+*.gch #GCC precompiled header file, will regnerate if missing
+
+# Autodesk Eagle PCB CAD Board and Schematic Backup / Restore files (e.g. .b#1, .s#1)
+*.b\#*
+*.s\#*

@@ -1,0 +1,32 @@
+-IC:/Git/_Template_Project/firmware/platformio_ide/_template_project_name/include
+-IC:/Git/_Template_Project/firmware/platformio_ide/_template_project_name/src
+-IC:/Git/_Template_Project/firmware/platformio_ide/_template_project_name/.pio/libdeps/default/Adafruit NeoPixel
+-IC:/Git/_Template_Project/firmware/platformio_ide/_template_project_name/.pio/libdeps/default/Arduino-MemoryFree
+-IC:/Git/_Template_Project/firmware/platformio_ide/_template_project_name/.pio/libdeps/default/SimpleCLI/src
+-IC:/Git/_Template_Project/firmware/platformio_ide/_template_project_name/.pio/libdeps/default/CuteBuzzerSounds/src
+-IC:/Git/_Template_Project/firmware/platformio_ide/_template_project_name/.pio/libdeps/default/EasyBuzzer/src
+-IC:/Git/_Template_Project/firmware/platformio_ide/_template_project_name/.pio/libdeps/default/EasyLed/src
+-IC:/Git/_Template_Project/firmware/platformio_ide/_template_project_name/.pio/libdeps/default/EasyButton/src
+-IC:/Git/_Template_Project/firmware/platformio_ide/_template_project_name/.pio/libdeps/default/ArduinoUniqueID/src
+-IC:/Git/_Template_Project/firmware/platformio_ide/_template_project_name/.pio/libdeps/default/Average
+-IC:/Git/_Template_Project/firmware/platformio_ide/_template_project_name/.pio/libdeps/default/Adafruit SleepyDog Library
+-IC:/Git/_Template_Project/firmware/platformio_ide/_template_project_name/.pio/libdeps/default/Adafruit SleepyDog Library/utility
+-IC:/Git/_Template_Project/firmware/platformio_ide/_template_project_name/.pio/libdeps/default/ArduinoTrace
+-IC:/Git/_Template_Project/firmware/platformio_ide/_template_project_name/.pio/libdeps/default/Arduino_DebugUtils/src
+-IC:/Users/mattg/.platformio/packages/framework-arduino-avr/cores/arduino
+-IC:/Users/mattg/.platformio/packages/framework-arduino-avr/variants/standard
+-IC:/Users/mattg/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src
+-IC:/Users/mattg/.platformio/packages/framework-arduino-avr/libraries/HID/src
+-IC:/Users/mattg/.platformio/packages/framework-arduino-avr/libraries/SPI/src
+-IC:/Users/mattg/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src
+-IC:/Users/mattg/.platformio/packages/framework-arduino-avr/libraries/Wire/src
+-IC:/Users/mattg/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/5.4.0/include
+-IC:/Users/mattg/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/5.4.0/include-fixed
+-IC:/Users/mattg/.platformio/packages/toolchain-atmelavr/avr/include
+-IC:/Users/mattg/.platformio/packages/tool-unity
+-DPLATFORMIO=50100
+-DARDUINO_AVR_UNO
+-DF_CPU=16000000L
+-DARDUINO_ARCH_AVR
+-DARDUINO=10808
+-D__AVR_ATmega328P__

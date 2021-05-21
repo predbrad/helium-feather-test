@@ -39,7 +39,7 @@
 # <img src="/img/icon.png" alt="icon.png" width="30"> Helium Feather Test
 
 <!-- Project Description -->
-Connect to the helium network... or bust. 
+Connect to the helium network... or bust.
 
 ---
 
@@ -132,7 +132,7 @@ Connect to the helium network... or bust.
 
 **Source Code**: [`project_name`](firmware/platformio_ide)
 
-* **Target device**: [*dev board*](https://)
+* **Target device**: [*Adafruit Feather M0 Radio with LoRa Radio Module*](https://learn.adafruit.com/adafruit-feather-m0-radio-with-lora-radio-module/using-the-rfm-9x-radio)
 
 * **IDE**: [PlatformIO IDE](https://platformio.org/)
 * **Libraries**: see `libraries` section in arduino_ide folder

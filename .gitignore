@@ -1,3 +1,5 @@
+.DS_Store
+
 # Shared objects (inc. Windows DLLs)
 *.dll
 *.so

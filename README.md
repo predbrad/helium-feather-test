@@ -72,6 +72,8 @@ Connect to the helium network... or bust.
 1. Technical User Manual
 -->
 
+1. [Initial Setup (from Helium)](https://github.com/helium/devdocs/blob/21bee22ed5c32c6a67d74756c32bfa0053543666/devices/arduino-quickstart/adafruit-feather-m0-rfm95.md)
+
 ### Developer Documentation
 
 * <img src="/img/documentation_icon.png" alt="documentation_icon.png" width="15"> [**Firmware File Structure**](docs/firmware_file_structure.md)

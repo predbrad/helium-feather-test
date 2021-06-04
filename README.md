@@ -73,6 +73,7 @@ Connect to the helium network... or bust.
 -->
 
 1. [Initial Setup (from Helium)](https://github.com/helium/devdocs/blob/21bee22ed5c32c6a67d74756c32bfa0053543666/devices/arduino-quickstart/adafruit-feather-m0-rfm95.md)
+1. REMINDER: Add jumper from io1 and 6, also paste in the correct keys
 
 ### Developer Documentation
 
